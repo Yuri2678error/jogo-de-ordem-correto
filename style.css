@@ -1,0 +1,49 @@
+body{
+background-color: black;
+color:red;
+font-family: "Doto", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 900px;
+margin: 0;
+}
+
+button{
+background-color: black;
+color:orange;
+font-family: "Doto", sans-serif;
+border-color: rgb(6, 0, 94);
+}
+
+.passo{
+
+    display: none;
+
+
+
+}
+
+.passo.ativo{
+    display:block;
+
+
+
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+
+}
+
+img {
+    max-width: 30%;
+
+
+
+}
+
+
+
+
